@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Supragya Vikram Singh.
-- 👀 I’m interested in learning about the use of soft tactics in sales.
-- 🌱 I’m currently brushing up my coding skills in Java.
-- 💞️ Currently I’m up for collaboration.
+- 👋 Hi, I’m Supragya.
+- 👀 I’m currently trying to learn PL/SQL.
+- 🌱 My interests are video games, chess, working out and psychology.
+- 💞️ I’m up for collaboration anytime on anything open source.
 - 📫 You can reach me at supragya24@gmail.com
 
 <!---
